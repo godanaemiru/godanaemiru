@@ -1,7 +1,9 @@
 ### Hi there 👋
 
+I am a software developer from Uganda
 <!--
-**godanaemiru/godanaemiru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**godanaemiru/godanaemiru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+
 
 - 🔭 I’m currently working on a Real Estate website and other things too
 - 🌱 I’m currently learning React Js
