@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a software developer from Uganda
+I am a software developer from Uganda.  I am interested in, write about and develop (open source) software solutions for and with JavaScript, php.
 <!--
 **godanaemiru/godanaemiru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
