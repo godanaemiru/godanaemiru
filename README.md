@@ -6,7 +6,6 @@ I am a software developer from Uganda.  I am interested in, write about and deve
 
 
 - 🔭 I’m working on a Real Estate website and other things too
-- 🌱 I’m currently learning Laravel
 - 👯 I’m looking to collaborate on all sorts of projects but especially web projects with Php as a backend language
 - 📫 How to reach me: godanaemiru@gmail.com
 - ⚡ Fun fact: I am an ardent Fide rated chess player and I play in my free time either at my chess club or online https://lichess.org/tachimensa. I have a Fide rating of 1458
