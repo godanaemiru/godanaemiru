@@ -30,23 +30,5 @@ I am a software developer from Uganda.  I am interested in, write about and deve
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=godanaemiru&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-## 🎵 Currently Listening To
-[![Spotify](https://novatorem-spotify-now-playing.vercel.app/api/now-playing?uid=305x0yoz76v6q9uxbwkhh6we8&theme=dark)](https://open.spotify.com/user/305x0yoz76v6q9uxbwkhh6we8)
-
----
-
-### 🎧 Currently Listening To
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=305x0yoz76v6q9uxbwkhh6we8&redirect=true">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=305x0yoz76v6q9uxbwkhh6we8&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" alt="Spotify currently playing" />
-</a>
-
----
-
-### 🎧 Currently Listening To
-<p align="center">
-  <a href="https://www.last.fm/user/godanaemiru">
-    <img src="https://lastly.nisarga.me/api/recent?username=godanaemiru&theme=dark" alt="Last.fm Recent Track" />
-  </a>
-</p>
 
 ### ⏱️ Coding Timeline
