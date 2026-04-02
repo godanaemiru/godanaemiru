@@ -71,4 +71,59 @@ I am a software developer from Uganda.  I am interested in, write about and deve
 ### ⏱️ Coding Timeline
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 124 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 43 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                48 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+🌆 Daytime                260 commits         ██████░░░░░░░░░░░░░░░░░░░   25.49 % 
+🌃 Evening                345 commits         ████████░░░░░░░░░░░░░░░░░   33.82 % 
+🌙 Night                  367 commits         █████████░░░░░░░░░░░░░░░░   35.98 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   154 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
+Tuesday                  245 commits         ██████░░░░░░░░░░░░░░░░░░░   24.02 % 
+Wednesday                191 commits         █████░░░░░░░░░░░░░░░░░░░░   18.73 % 
+Thursday                 138 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
+Friday                   121 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
+Saturday                 112 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
+Sunday                   59 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 02/04/2026 13:23:34 UTC
 <!--END_SECTION:waka-->
