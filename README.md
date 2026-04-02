@@ -64,7 +64,7 @@ I am a software developer from Uganda.  I am interested in, write about and deve
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=godanaemiru&theme=radical" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=godanaemiru&layout=compact&theme=radical" alt="Top Languages" />
+  
 </p>
 
 
