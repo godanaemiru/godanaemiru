@@ -10,13 +10,16 @@ I am a software developer from Uganda.  I am interested in, write about and deve
 - 📫 How to reach me: godanaemiru@gmail.com
 - ⚡ Fun fact: I am an ardent Fide rated chess player and I play in my free time either at my chess club or online https://lichess.org/tachimensa. I have a Fide rating of 1658..
 
-## 📊 GitHub Stats
+### 📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=godanaemiru&show_icons=true&theme=tokyonight&hide_border=true" alt="Godana's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=godanaemiru&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=godanaemiru&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
-
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=godanaemiru&theme=radical" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=godanaemiru&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ## 🎵 Currently Listening To
 [![Spotify](https://novatorem-spotify-now-playing.vercel.app/api/now-playing?uid=305x0yoz76v6q9uxbwkhh6we8&theme=dark)](https://open.spotify.com/user/305x0yoz76v6q9uxbwkhh6we8)
