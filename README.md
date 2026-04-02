@@ -69,3 +69,6 @@ I am a software developer from Uganda.  I am interested in, write about and deve
 
 
 ### ⏱️ Coding Timeline
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
