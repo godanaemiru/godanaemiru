@@ -71,8 +71,6 @@ I am a software developer from Uganda.  I am interested in, write about and deve
 ### ⏱️ Coding Timeline
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -112,18 +110,23 @@ Sunday                   59 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               28 mins             ████████████████░░░░░░░░░   63.93 % 
+TypeScript               16 mins             █████████░░░░░░░░░░░░░░░░   35.83 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  45 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+moz-todo-react           28 mins             ████████████████░░░░░░░░░   63.93 % 
+my-app                   14 mins             ████████░░░░░░░░░░░░░░░░░   31.36 % 
+kolaborate-monorepo      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  45 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 02/04/2026 13:23:34 UTC
+ Last Updated on 03/04/2026 02:32:05 UTC
 <!--END_SECTION:waka-->
