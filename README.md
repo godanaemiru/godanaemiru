@@ -112,27 +112,24 @@ Sunday                   59 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               5 hrs 47 mins       ███████████████████░░░░░░   74.60 % 
-Bash                     40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
-JSON                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
-HTML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-TypeScript               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+JavaScript               5 hrs 3 mins        █████████████████░░░░░░░░   69.30 % 
+Bash                     40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
+Other                    28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
+JSON                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
+HTML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
 
 🔥 Editors: 
-Antigravity              7 hrs 44 mins       █████████████████████████   99.83 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Antigravity              7 hrs 18 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-agentic-doc-creator      4 hrs 16 mins       ██████████████░░░░░░░░░░░   55.01 % 
-moz-todo-react           2 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   27.39 % 
-recipes-app              29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
-potential-robot          29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
-kolaborate-monorepo      22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
+agentic-doc-creator      4 hrs 16 mins       ███████████████░░░░░░░░░░   58.40 % 
+moz-todo-react           2 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   29.98 % 
+kolaborate-monorepo      50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
 
 💻 Operating System: 
-Windows                  7 hrs 45 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 13/04/2026 02:51:37 UTC
+ Last Updated on 14/04/2026 02:43:53 UTC
 <!--END_SECTION:waka-->
