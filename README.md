@@ -71,7 +71,7 @@ I am a software developer from Uganda.  I am interested in, write about and deve
 ### ⏱️ Coding Timeline
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%2057%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-116-blue?style=flat)
 
@@ -112,24 +112,24 @@ Sunday                   59 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               5 hrs 3 mins        █████████████████░░░░░░░░   69.30 % 
-Bash                     40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
-Other                    28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
-JSON                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
-HTML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
+JavaScript               4 hrs 11 mins       ██████████████████░░░░░░░   73.96 % 
+Other                    44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
+JSON                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
+HTML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
+TypeScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 
 🔥 Editors: 
-Antigravity              7 hrs 18 mins       █████████████████████████   100.00 % 
+Antigravity              5 hrs 39 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-agentic-doc-creator      4 hrs 16 mins       ███████████████░░░░░░░░░░   58.40 % 
-moz-todo-react           2 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   29.98 % 
-kolaborate-monorepo      50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
+agentic-doc-creator      2 hrs 42 mins       ████████████░░░░░░░░░░░░░   47.92 % 
+moz-todo-react           2 hrs 7 mins        █████████░░░░░░░░░░░░░░░░   37.49 % 
+kolaborate-monorepo      49 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
 
 💻 Operating System: 
-Windows                  7 hrs 18 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 14/04/2026 02:43:53 UTC
+ Last Updated on 15/04/2026 02:40:48 UTC
 <!--END_SECTION:waka-->
