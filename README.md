@@ -111,26 +111,26 @@ Sunday                   59 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 4 mins         ███████████░░░░░░░░░░░░░░   43.08 % 
-JSON                     27 mins             █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
-Git Config               26 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
-Other                    22 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
-TSConfig                 9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+JSON                     33 mins             ███████░░░░░░░░░░░░░░░░░░   28.07 % 
+TypeScript               26 mins             ██████░░░░░░░░░░░░░░░░░░░   22.57 % 
+Git Config               26 mins             ██████░░░░░░░░░░░░░░░░░░░   22.27 % 
+Other                    22 mins             █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
+TSConfig                 9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 40 mins       ████████████████████░░░░░   80.92 % 
-Antigravity              37 mins             █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
+Kiro                     1 hr 11 mins        ███████████████░░░░░░░░░░   59.95 % 
+Antigravity              45 mins             ██████████░░░░░░░░░░░░░░░   38.04 % 
+VS Code                  2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
 
 🐱‍💻 Projects: 
-soundwave                53 mins             █████████░░░░░░░░░░░░░░░░   35.71 % 
-kolaborate-monorepo      53 mins             █████████░░░░░░░░░░░░░░░░   35.50 % 
-kolamate                 28 mins             █████░░░░░░░░░░░░░░░░░░░░   19.17 % 
-web                      14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
+soundwave                1 hr 8 mins         ██████████████░░░░░░░░░░░   57.31 % 
+kolamate                 36 mins             ████████░░░░░░░░░░░░░░░░░   30.51 % 
+web                      14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
 
 💻 Operating System: 
-Windows                  2 hrs 30 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 58 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 30/04/2026 03:24:46 UTC
+ Last Updated on 01/05/2026 03:35:08 UTC
 <!--END_SECTION:waka-->
