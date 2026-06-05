@@ -70,40 +70,40 @@ I am a software developer from Uganda.  I am interested in, write about and deve
 ### ⏱️ Coding Timeline
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-19%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-45%20hrs%2042%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 470 Contributions in the Year 2026
+> 🏆 510 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 46 Public Repositories 
+> 📜 47 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                106 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
-🌆 Daytime                1273 commits        ███████████████░░░░░░░░░░   60.53 % 
-🌃 Evening                351 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
-🌙 Night                  373 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
+🌞 Morning                198 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
+🌆 Daytime                1476 commits        ███████████████░░░░░░░░░░   61.45 % 
+🌃 Evening                352 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
+🌙 Night                  376 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   1131 commits        █████████████░░░░░░░░░░░░   53.78 % 
-Tuesday                  280 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
-Wednesday                206 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
-Thursday                 183 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-Friday                   132 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
-Saturday                 112 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
-Sunday                   59 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+Monday                   1238 commits        █████████████░░░░░░░░░░░░   51.54 % 
+Tuesday                  325 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
+Wednesday                208 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
+Thursday                 292 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
+Friday                   168 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
+Saturday                 112 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
+Sunday                   59 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
 ```
 
 
@@ -111,26 +111,27 @@ Sunday                   59 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JSON                     22 mins             ███████████░░░░░░░░░░░░░░   42.28 % 
-Other                    14 mins             ███████░░░░░░░░░░░░░░░░░░   27.24 % 
-TSConfig                 9 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
-TypeScript               6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+TypeScript               4 hrs 53 mins       ██████████████████░░░░░░░   72.88 % 
+Other                    58 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
+YAML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+JavaScript               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
 
 🔥 Editors: 
-Antigravity              45 mins             █████████████████████░░░░   85.07 % 
-Kiro                     5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
-VS Code                  2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
+VS Code                  6 hrs 42 mins       █████████████████████████   99.77 % 
+Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 🐱‍💻 Projects: 
-kolamate                 36 mins             █████████████████░░░░░░░░   68.25 % 
-web                      14 mins             ███████░░░░░░░░░░░░░░░░░░   27.24 % 
-soundwave                2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
+soundwave                5 hrs 41 mins       █████████████████████░░░░   84.61 % 
+NUNUFUND                 21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
+NUNUFUND_FRONTEND-V_2    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+Ebola-tracker            14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+NUNUFUND_Backend-V_2     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
 
 💻 Operating System: 
-Windows                  53 mins             █████████████████████████   100.00 % 
+Windows                  6 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 02/05/2026 02:50:44 UTC
+ Last Updated on 05/06/2026 07:42:08 UTC
 <!--END_SECTION:waka-->
