@@ -70,9 +70,7 @@ I am a software developer from Uganda.  I am interested in, write about and deve
 ### ⏱️ Coding Timeline
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-45%20hrs%2042%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -89,21 +87,21 @@ I am a software developer from Uganda.  I am interested in, write about and deve
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                198 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
-🌆 Daytime                1483 commits        ███████████████░░░░░░░░░░   61.56 % 
-🌃 Evening                352 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
-🌙 Night                  376 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
+🌞 Morning                215 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
+🌆 Daytime                1547 commits        ████████████████░░░░░░░░░   62.18 % 
+🌃 Evening                352 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
+🌙 Night                  374 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   1231 commits        █████████████░░░░░░░░░░░░   51.10 % 
-Tuesday                  325 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
-Wednesday                208 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
-Thursday                 296 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
-Friday                   178 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
-Saturday                 112 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
-Sunday                   59 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+Monday                   1253 commits        █████████████░░░░░░░░░░░░   50.36 % 
+Tuesday                  337 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
+Wednesday                202 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
+Thursday                 326 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+Friday                   199 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+Saturday                 112 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+Sunday                   59 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
 ```
 
 
@@ -111,27 +109,26 @@ Sunday                   59 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               4 hrs 53 mins       ██████████████████░░░░░░░   72.88 % 
-Other                    58 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
-YAML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-JavaScript               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
-JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+TypeScript               3 hrs 9 mins        █████████████████░░░░░░░░   68.19 % 
+Other                    51 mins             █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
+YAML                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
+Bash                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+Docker                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 42 mins       █████████████████████████   99.77 % 
-Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+VS Code                  4 hrs 37 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-soundwave                5 hrs 41 mins       █████████████████████░░░░   84.61 % 
-NUNUFUND                 21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
-NUNUFUND_FRONTEND-V_2    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
-Ebola-tracker            14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
-NUNUFUND_Backend-V_2     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+soundwave                3 hrs 34 mins       ███████████████████░░░░░░   77.24 % 
+NUNUFUND                 23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
+NUNUFUND_Backend-V_2     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+NUNUFUND_FRONTEND-V_2    17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+auth                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 
 💻 Operating System: 
-Windows                  6 hrs 43 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 06/06/2026 03:39:21 UTC
+ Last Updated on 07/06/2026 04:06:15 UTC
 <!--END_SECTION:waka-->
