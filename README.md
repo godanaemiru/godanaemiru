@@ -70,6 +70,8 @@ I am a software developer from Uganda.  I am interested in, write about and deve
 ### ⏱️ Coding Timeline
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-47%20hrs%2010%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -130,5 +132,5 @@ Windows                  4 hrs 37 mins       ███████████�
 ```
 
 
- Last Updated on 07/06/2026 04:06:15 UTC
+ Last Updated on 08/06/2026 01:04:22 UTC
 <!--END_SECTION:waka-->
