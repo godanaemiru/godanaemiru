@@ -70,7 +70,7 @@ I am a software developer from Uganda.  I am interested in, write about and deve
 ### ⏱️ Coding Timeline
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-56%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-57%20hrs%2019%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue?style=flat)
 
@@ -111,27 +111,27 @@ Sunday                   59 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               7 hrs 24 mins       █████████████████░░░░░░░░   67.24 % 
-HTML                     1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
-Markdown                 53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
-JavaScript               30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
-SQL                      26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+TypeScript               6 hrs 38 mins       ████████████████░░░░░░░░░   62.87 % 
+HTML                     1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
+Markdown                 53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
+JavaScript               38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
+Other                    28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 51 mins      █████████████████████████   98.48 % 
-Claude Code              10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+VS Code                  10 hrs 21 mins      █████████████████████████   98.19 % 
+Claude Code              11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
 
 🐱‍💻 Projects: 
-soundwave                8 hrs 18 mins       ███████████████████░░░░░░   75.31 % 
-Hackathon                1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
-flowmatic                1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
-NUNUFUND_Backend-V_2     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
-NUNUFUND                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+soundwave                7 hrs 48 mins       ██████████████████░░░░░░░   73.99 % 
+Hackathon                1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
+flowmatic                1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+NUNUFUND_ShopPOS         9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+NUNUFUND_Backend-V_2     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
 
 💻 Operating System: 
-Windows                  11 hrs 1 min        █████████████████████████   100.00 % 
+Windows                  10 hrs 33 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 13/06/2026 01:05:07 UTC
+ Last Updated on 14/06/2026 01:06:15 UTC
 <!--END_SECTION:waka-->
