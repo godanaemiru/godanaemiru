@@ -70,7 +70,9 @@ I am a software developer from Uganda.  I am interested in, write about and deve
 ### ⏱️ Coding Timeline
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-125%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-112%20hrs%2042%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-97%20hrs%2057%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -78,7 +80,7 @@ I am a software developer from Uganda.  I am interested in, write about and deve
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 796 Contributions in the Year 2026
+> 🏆 799 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -89,21 +91,21 @@ I am a software developer from Uganda.  I am interested in, write about and deve
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1531 commits        █████░░░░░░░░░░░░░░░░░░░░   19.83 % 
-🌆 Daytime                4863 commits        ████████████████░░░░░░░░░   63.00 % 
-🌃 Evening                926 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-🌙 Night                  399 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+🌞 Morning                845 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
+🌆 Daytime                3108 commits        ████████████████░░░░░░░░░   62.75 % 
+🌃 Evening                601 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
+🌙 Night                  399 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   2112 commits        ███████░░░░░░░░░░░░░░░░░░   27.36 % 
-Tuesday                  1121 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
-Wednesday                1339 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
-Thursday                 1924 commits        ██████░░░░░░░░░░░░░░░░░░░   24.93 % 
-Friday                   1026 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
-Saturday                 113 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
-Sunday                   84 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+Monday                   1745 commits        █████████░░░░░░░░░░░░░░░░   35.23 % 
+Tuesday                  705 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
+Wednesday                702 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
+Thursday                 1079 commits        █████░░░░░░░░░░░░░░░░░░░░   21.78 % 
+Friday                   538 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
+Saturday                 113 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+Sunday                   71 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
 ```
 
 
@@ -132,6 +134,30 @@ couples-app-mvp          8 mins              █░░░░░░░░░░�
 Windows                  4 hrs 46 mins       █████████████████████████   100.00 % 
 ```
 
+🤖 **AI Coding This Week** 
 
- Last Updated on 27/07/2026 12:30:24 UTC
+```text
+⏱ AI Coding Time: 4 hrs 18 mins (90.39%)
+
+✍️ 1,397 lines written by AI, 11 lines written by hand (99.22% AI-written)
+
+🔤 75,249,526 Input Tokens, 237,910 Output Tokens
+
+💵 $275.00 Estimated AI Cost This Week
+
+🧠 12 AI Sessions, 94 AI Prompts
+
+Sonnet                   2,100 lines         █████████████████████████   100.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.22% of written lines came from AI
+📚 Verbose Prompter — average 2,446 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 0.81% of changed lines were hand-edited
+```
+
+
+ Last Updated on 28/07/2026 02:38:34 UTC
 <!--END_SECTION:waka-->
