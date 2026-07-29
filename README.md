@@ -74,13 +74,13 @@ I am a software developer from Uganda.  I am interested in, write about and deve
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-97%20hrs%2057%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 799 Contributions in the Year 2026
+> 🏆 801 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -91,20 +91,20 @@ I am a software developer from Uganda.  I am interested in, write about and deve
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                845 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
-🌆 Daytime                3108 commits        ████████████████░░░░░░░░░   62.75 % 
-🌃 Evening                601 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
-🌙 Night                  399 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
+🌞 Morning                847 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
+🌆 Daytime                3133 commits        ████████████████░░░░░░░░░   62.91 % 
+🌃 Evening                601 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
+🌙 Night                  399 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   1745 commits        █████████░░░░░░░░░░░░░░░░   35.23 % 
-Tuesday                  705 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
-Wednesday                702 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
-Thursday                 1079 commits        █████░░░░░░░░░░░░░░░░░░░░   21.78 % 
-Friday                   538 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
-Saturday                 113 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+Monday                   1763 commits        █████████░░░░░░░░░░░░░░░░   35.40 % 
+Tuesday                  705 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
+Wednesday                703 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
+Thursday                 1083 commits        █████░░░░░░░░░░░░░░░░░░░░   21.75 % 
+Friday                   542 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
+Saturday                 113 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
 Sunday                   71 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
 ```
 
@@ -113,51 +113,51 @@ Sunday                   71 commits          ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               2 hrs 33 mins       █████████████░░░░░░░░░░░░   53.74 % 
-Other                    42 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
-JavaScript               39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
-SQL                      23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
-Markdown                 17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
+TypeScript               1 hr 56 mins        ██████████░░░░░░░░░░░░░░░   41.76 % 
+JavaScript               43 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
+Other                    41 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
+SQL                      33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
+YAML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
 
 🔥 Editors: 
-Claude Code              4 hrs               █████████████████████░░░░   84.03 % 
-VS Code                  45 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
+Claude Code              3 hrs 52 mins       █████████████████████░░░░   83.42 % 
+VS Code                  46 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
 
 🐱‍💻 Projects: 
-soundwave                3 hrs 41 mins       ███████████████████░░░░░░   77.20 % 
-houseparty-clone         29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
-NUNUFUND_FRONTEND-V_2    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-NUNUFUND_Backend-V_2     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
-couples-app-mvp          8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+soundwave                2 hrs 24 mins       █████████████░░░░░░░░░░░░   51.78 % 
+NUNUFUND_FRONTEND-V_2    1 hr                █████░░░░░░░░░░░░░░░░░░░░   21.66 % 
+houseparty-clone         29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
+NUNUFUND_Backend-V_2     29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
+NUNUFUND                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
 
 💻 Operating System: 
-Windows                  4 hrs 46 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 38 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 18 mins (90.39%)
+⏱ AI Coding Time: 4 hrs 24 mins (94.95%)
 
-✍️ 1,397 lines written by AI, 11 lines written by hand (99.22% AI-written)
+✍️ 823 lines written by AI, 1 lines written by hand (99.88% AI-written)
 
-🔤 75,249,526 Input Tokens, 237,910 Output Tokens
+🔤 67,987,329 Input Tokens, 180,875 Output Tokens
 
-💵 $275.00 Estimated AI Cost This Week
+💵 $252.36 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 94 AI Prompts
+🧠 11 AI Sessions, 71 AI Prompts
 
-Sonnet                   2,100 lines         █████████████████████████   100.00 % 
+Sonnet                   1,418 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.22% of written lines came from AI
-📚 Verbose Prompter — average 2,446 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 0.81% of changed lines were hand-edited
+🤖 AI-Driven — 99.88% of written lines came from AI
+📚 Verbose Prompter — average 3,326 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.17% of changed lines were hand-edited
 ```
 
 
- Last Updated on 28/07/2026 02:38:34 UTC
+ Last Updated on 29/07/2026 02:45:57 UTC
 <!--END_SECTION:waka-->
