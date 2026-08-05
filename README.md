@@ -135,29 +135,6 @@ NUNUFUND                 1 hr 37 mins        ███░░░░░░░░�
 Windows                  14 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 14 hrs 46 mins (98.78%)
-
-✍️ 4,366 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 356,250,334 Input Tokens, 513,284 Output Tokens
-
-💵 $1076.52 Estimated AI Cost This Week
-
-🧠 8 AI Sessions, 146 AI Prompts
-
-Sonnet                   4,732 lines         █████████████████████████   100.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 177 characters per prompt
-🔁 Iterative Prompter — average 18 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
-```
 
 
  Last Updated on 05/08/2026 02:37:25 UTC
