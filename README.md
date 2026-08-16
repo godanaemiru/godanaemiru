@@ -70,7 +70,7 @@ I am a software developer from Uganda.  I am interested in, write about and deve
 ### ⏱️ Coding Timeline
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-150%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-150%20hrs%2034%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue?style=flat)
 
@@ -111,27 +111,27 @@ Sunday                   66 commits          ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               16 hrs 41 mins      ████████████████████░░░░░   78.57 % 
-Markdown                 2 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
-Other                    1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
-SQL                      37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
-JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+TypeScript               14 hrs 12 mins      ███████████████████░░░░░░   75.35 % 
+Other                    2 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
+Markdown                 1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
+SQL                      37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 🔥 Editors: 
-Claude Code              20 hrs 46 mins      ████████████████████████░   97.84 % 
-VS Code                  27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+Claude Code              18 hrs 9 mins       ████████████████████████░   96.33 % 
+VS Code                  41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
 
 🐱‍💻 Projects: 
-soundwave                19 hrs 52 mins      ███████████████████████░░   93.60 % 
-NUNUFUND                 43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
-NUNUFUND_FRONTEND-V_2    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
-NUNUFUND_Backend-V_2     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
-NUNUFUND_ShopPOS         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+soundwave                16 hrs 15 mins      ██████████████████████░░░   86.18 % 
+NUNUFUND                 1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
+NUNUFUND_FRONTEND-V_2    40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+NUNUFUND_Backend-V_2     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+NUNUFUND_ShopPOS         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 💻 Operating System: 
-Windows                  21 hrs 14 mins      █████████████████████████   100.00 % 
+Windows                  18 hrs 51 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 15/08/2026 01:19:35 UTC
+ Last Updated on 16/08/2026 01:23:30 UTC
 <!--END_SECTION:waka-->
