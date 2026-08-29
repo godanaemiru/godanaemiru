@@ -89,20 +89,20 @@ I am a software developer from Uganda.  I am interested in, write about and deve
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1163 commits        █████░░░░░░░░░░░░░░░░░░░░   19.26 % 
-🌆 Daytime                3875 commits        ████████████████░░░░░░░░░   64.17 % 
-🌃 Evening                558 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
-🌙 Night                  443 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
+🌞 Morning                1149 commits        █████░░░░░░░░░░░░░░░░░░░░   19.17 % 
+🌆 Daytime                3845 commits        ████████████████░░░░░░░░░   64.14 % 
+🌃 Evening                558 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
+🌙 Night                  443 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   2039 commits        ████████░░░░░░░░░░░░░░░░░   33.76 % 
-Tuesday                  903 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
-Wednesday                829 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
-Thursday                 1404 commits        ██████░░░░░░░░░░░░░░░░░░░   23.25 % 
-Friday                   637 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
-Saturday                 156 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+Monday                   2023 commits        ████████░░░░░░░░░░░░░░░░░   33.74 % 
+Tuesday                  895 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
+Wednesday                829 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
+Thursday                 1384 commits        ██████░░░░░░░░░░░░░░░░░░░   23.09 % 
+Friday                   637 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
+Saturday                 156 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
 Sunday                   71 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
 ```
 
@@ -111,27 +111,27 @@ Sunday                   71 commits          ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               4 hrs 16 mins       █████████████░░░░░░░░░░░░   52.89 % 
-SQL                      56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
-Other                    51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
-YAML                     43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
-Python                   38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+TypeScript               2 hrs 29 mins       ████████████░░░░░░░░░░░░░   47.63 % 
+Other                    51 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
+YAML                     43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
+Python                   38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
+Bash                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
 
 🔥 Editors: 
-Claude Code              7 hrs 50 mins       ████████████████████████░   97.16 % 
-VS Code                  13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+Claude Code              5 hrs               ████████████████████████░   95.62 % 
+VS Code                  13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
 
 🐱‍💻 Projects: 
-soundwave                5 hrs 8 mins        ████████████████░░░░░░░░░   63.69 % 
-NUNUFUND_Backend-V_2     1 hr 15 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
-NUNUFUND_ShopPOS         1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
-NUNUFUND                 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
-fpl-assistant            6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+soundwave                2 hrs 20 mins       ███████████░░░░░░░░░░░░░░   44.92 % 
+NUNUFUND_Backend-V_2     1 hr 15 mins        ██████░░░░░░░░░░░░░░░░░░░   23.98 % 
+NUNUFUND_ShopPOS         1 hr 10 mins        ██████░░░░░░░░░░░░░░░░░░░   22.33 % 
+NUNUFUND                 27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
+NUNUFUND_FRONTEND-V_2    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 💻 Operating System: 
-Windows                  8 hrs 4 mins        █████████████████████████   100.00 % 
+Windows                  5 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 28/08/2026 10:05:51 UTC
+ Last Updated on 29/08/2026 06:03:18 UTC
 <!--END_SECTION:waka-->
