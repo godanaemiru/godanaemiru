@@ -70,7 +70,7 @@ I am a software developer from Uganda.  I am interested in, write about and deve
 ### ⏱️ Coding Timeline
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-164%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-168%20hrs%2033%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -78,7 +78,7 @@ I am a software developer from Uganda.  I am interested in, write about and deve
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 944 Contributions in the Year 2026
+> 🏆 946 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -89,21 +89,21 @@ I am a software developer from Uganda.  I am interested in, write about and deve
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1149 commits        █████░░░░░░░░░░░░░░░░░░░░   19.17 % 
-🌆 Daytime                3845 commits        ████████████████░░░░░░░░░   64.14 % 
-🌃 Evening                558 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
-🌙 Night                  443 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
+🌞 Morning                1370 commits        █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
+🌆 Daytime                4341 commits        ████████████████░░░░░░░░░   64.06 % 
+🌃 Evening                633 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
+🌙 Night                  432 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   2023 commits        ████████░░░░░░░░░░░░░░░░░   33.74 % 
-Tuesday                  895 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
-Wednesday                829 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
-Thursday                 1384 commits        ██████░░░░░░░░░░░░░░░░░░░   23.09 % 
-Friday                   637 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
-Saturday                 156 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
-Sunday                   71 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+Monday                   2138 commits        ████████░░░░░░░░░░░░░░░░░   31.55 % 
+Tuesday                  990 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
+Wednesday                1061 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
+Thursday                 1571 commits        ██████░░░░░░░░░░░░░░░░░░░   23.18 % 
+Friday                   776 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
+Saturday                 166 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+Sunday                   74 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 ```
 
 
@@ -111,27 +111,27 @@ Sunday                   71 commits          ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               2 hrs 29 mins       ████████████░░░░░░░░░░░░░   47.63 % 
-Other                    51 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
-YAML                     43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
-Python                   38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
-Bash                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
+TypeScript               3 hrs 15 mins       ███████████░░░░░░░░░░░░░░   44.97 % 
+Python                   2 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   29.30 % 
+Other                    44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+Markdown                 32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
+YAML                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
 
 🔥 Editors: 
-Claude Code              5 hrs               ████████████████████████░   95.62 % 
-VS Code                  13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+Claude Code              6 hrs 56 mins       ████████████████████████░   95.97 % 
+VS Code                  17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
 
 🐱‍💻 Projects: 
-soundwave                2 hrs 20 mins       ███████████░░░░░░░░░░░░░░   44.92 % 
-NUNUFUND_Backend-V_2     1 hr 15 mins        ██████░░░░░░░░░░░░░░░░░░░   23.98 % 
-NUNUFUND_ShopPOS         1 hr 10 mins        ██████░░░░░░░░░░░░░░░░░░░   22.33 % 
-NUNUFUND                 27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
-NUNUFUND_FRONTEND-V_2    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+NUNUFUND_Backend-V_2     2 hrs 50 mins       ██████████░░░░░░░░░░░░░░░   39.25 % 
+NUNUFUND_ShopPOS         1 hr 47 mins        ██████░░░░░░░░░░░░░░░░░░░   24.83 % 
+NUNUFUND                 1 hr 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
+soundwave                51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
+NUNUFUND_FRONTEND-V_2    40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
 
 💻 Operating System: 
-Windows                  5 hrs 13 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 31/08/2026 04:15:13 UTC
+ Last Updated on 01/09/2026 04:02:38 UTC
 <!--END_SECTION:waka-->
