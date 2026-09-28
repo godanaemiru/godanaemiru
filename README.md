@@ -111,27 +111,24 @@ Sunday                   96 commits          ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               9 hrs 8 mins        ████████████░░░░░░░░░░░░░   49.42 % 
-JavaScript               4 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   24.66 % 
-SQL                      2 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
-Other                    1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
-Markdown                 17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+TypeScript               9 hrs 8 mins        █████████████████░░░░░░░░   67.92 % 
+SQL                      2 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
+Other                    1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
+JavaScript               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 
 🔥 Editors: 
-Claude Code              17 hrs 25 mins      ████████████████████████░   94.13 % 
-VS Code                  1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
+Claude Code              12 hrs 23 mins      ███████████████████████░░   91.94 % 
+VS Code                  1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
 
 🐱‍💻 Projects: 
-soundwave                10 hrs 58 mins      ███████████████░░░░░░░░░░   59.27 % 
-gym-management-pwa       4 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   24.20 % 
-kolaborate-monorepo      2 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
-cv                       15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
-check2                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+soundwave                10 hrs 58 mins      ████████████████████░░░░░   81.46 % 
+kolaborate-monorepo      2 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   18.54 % 
 
 💻 Operating System: 
-Windows                  18 hrs 30 mins      █████████████████████████   100.00 % 
+Windows                  13 hrs 28 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 27/09/2026 04:11:36 UTC
+ Last Updated on 28/09/2026 04:12:53 UTC
 <!--END_SECTION:waka-->
