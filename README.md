@@ -70,7 +70,7 @@ I am a software developer from Uganda.  I am interested in, write about and deve
 ### ⏱️ Coding Timeline
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-230%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-230%20hrs%2055%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -89,21 +89,21 @@ I am a software developer from Uganda.  I am interested in, write about and deve
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2081 commits        ██████░░░░░░░░░░░░░░░░░░░   23.09 % 
-🌆 Daytime                5602 commits        ████████████████░░░░░░░░░   62.16 % 
-🌃 Evening                860 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
-🌙 Night                  469 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
+🌞 Morning                2056 commits        ██████░░░░░░░░░░░░░░░░░░░   23.06 % 
+🌆 Daytime                5549 commits        ████████████████░░░░░░░░░   62.23 % 
+🌃 Evening                850 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
+🌙 Night                  462 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   2521 commits        ███████░░░░░░░░░░░░░░░░░░   27.97 % 
-Tuesday                  1580 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
-Wednesday                1581 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
-Thursday                 2060 commits        ██████░░░░░░░░░░░░░░░░░░░   22.86 % 
-Friday                   987 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
-Saturday                 184 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
-Sunday                   99 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+Monday                   2500 commits        ███████░░░░░░░░░░░░░░░░░░   28.04 % 
+Tuesday                  1572 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
+Wednesday                1557 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
+Thursday                 2023 commits        ██████░░░░░░░░░░░░░░░░░░░   22.69 % 
+Friday                   982 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+Saturday                 184 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+Sunday                   99 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
 ```
 
 
@@ -111,27 +111,27 @@ Sunday                   99 commits          ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               6 hrs 45 mins       █████████░░░░░░░░░░░░░░░░   37.06 % 
-Python                   4 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   24.28 % 
-Other                    2 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
-Markdown                 1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
-HTML                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
+TypeScript               6 hrs 54 mins       █████████░░░░░░░░░░░░░░░░   35.48 % 
+Python                   4 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   23.00 % 
+Other                    2 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
+Markdown                 2 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
+HTML                     1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
 
 🔥 Editors: 
-Claude Code              17 hrs 36 mins      ████████████████████████░   96.63 % 
-VS Code                  36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+Claude Code              18 hrs 48 mins      ████████████████████████░   96.56 % 
+VS Code                  40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
 
 🐱‍💻 Projects: 
-NUNUFUND_FRONTEND-V_2    4 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   25.91 % 
-NUNUFUND_Backend-V_2     4 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   22.42 % 
-soundwave                4 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   22.07 % 
-scratch-2026-09-29-10663d3 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
-NUNUFUND_ShopPOS         48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
+NUNUFUND_FRONTEND-V_2    4 hrs 47 mins       ██████░░░░░░░░░░░░░░░░░░░   24.57 % 
+scratch-2026-09-29-10663d4 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   22.79 % 
+NUNUFUND_Backend-V_2     3 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
+soundwave                2 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
+kampala-shop             2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
 
 💻 Operating System: 
-Windows                  18 hrs 12 mins      █████████████████████████   100.00 % 
+Windows                  19 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 05/10/2026 04:35:48 UTC
+ Last Updated on 06/10/2026 05:21:29 UTC
 <!--END_SECTION:waka-->
