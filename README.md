@@ -70,7 +70,7 @@ I am a software developer from Uganda.  I am interested in, write about and deve
 ### ⏱️ Coding Timeline
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-334%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-334%20hrs%207%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue?style=flat)
 
@@ -89,21 +89,21 @@ I am a software developer from Uganda.  I am interested in, write about and deve
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                5396 commits        ██████░░░░░░░░░░░░░░░░░░░   23.88 % 
-🌆 Daytime                14769 commits       ████████████████░░░░░░░░░   65.37 % 
-🌃 Evening                1640 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
-🌙 Night                  787 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+🌞 Morning                5303 commits        ██████░░░░░░░░░░░░░░░░░░░   23.96 % 
+🌆 Daytime                14452 commits       ████████████████░░░░░░░░░   65.30 % 
+🌃 Evening                1604 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
+🌙 Night                  773 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   5237 commits        ██████░░░░░░░░░░░░░░░░░░░   23.18 % 
-Tuesday                  4860 commits        █████░░░░░░░░░░░░░░░░░░░░   21.51 % 
-Wednesday                3718 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
-Thursday                 6064 commits        ███████░░░░░░░░░░░░░░░░░░   26.84 % 
-Friday                   2336 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-Saturday                 257 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
-Sunday                   120 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+Monday                   5183 commits        ██████░░░░░░░░░░░░░░░░░░░   23.42 % 
+Tuesday                  4742 commits        █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
+Wednesday                3607 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
+Thursday                 5966 commits        ███████░░░░░░░░░░░░░░░░░░   26.96 % 
+Friday                   2262 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
+Saturday                 253 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+Sunday                   119 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 ```
 
 
@@ -111,26 +111,26 @@ Sunday                   120 commits         ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    4 hrs 34 mins       █████████░░░░░░░░░░░░░░░░   37.84 % 
-TypeScript               4 hrs 33 mins       █████████░░░░░░░░░░░░░░░░   37.81 % 
-Markdown                 2 hrs               ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
-JSON                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
-Python                   19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+Other                    4 hrs 39 mins       ██████████░░░░░░░░░░░░░░░   41.44 % 
+TypeScript               3 hrs 51 mins       █████████░░░░░░░░░░░░░░░░   34.37 % 
+Markdown                 2 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   18.38 % 
+JSON                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+Python                   12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
 
 🔥 Editors: 
-Claude Code              7 hrs 28 mins       ███████████████░░░░░░░░░░   61.89 % 
-Codex Vscode             3 hrs 46 mins       ████████░░░░░░░░░░░░░░░░░   31.22 % 
-VS Code                  49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
+Claude Code              6 hrs 13 mins       ██████████████░░░░░░░░░░░   55.36 % 
+Codex Vscode             4 hrs 9 mins        █████████░░░░░░░░░░░░░░░░   36.98 % 
+VS Code                  51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
 
 🐱‍💻 Projects: 
-soundwave                11 hrs 32 mins      ████████████████████████░   95.67 % 
-referenced-chatgpt-conver26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
-wh                       4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+soundwave                10 hrs 43 mins      ████████████████████████░   95.35 % 
+referenced-chatgpt-conver26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+wh                       4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 
 💻 Operating System: 
-Windows                  12 hrs 4 mins       █████████████████████████   100.00 % 
+Windows                  11 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 25/11/2026 07:31:33 UTC
+ Last Updated on 26/11/2026 07:19:20 UTC
 <!--END_SECTION:waka-->
